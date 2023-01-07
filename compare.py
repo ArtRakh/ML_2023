@@ -2,7 +2,6 @@
 
 import sys
 import re
-#from tqdm import tqdm
 
 # для чтения файлов со скриптами
 def access_data(path: str) -> None:
